@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    background-size: cover;
+}
+
+.heading{
+width: 100%;
+text-align: left;
+}
+
+.heading h3{
+display: inline;
+}
+
+.heading button{
+float: right;
+border-radius: 15px;
+border: 1px solid white;
+}
+
+#start,#Status{
+font-size: 28px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.modal-dialog{
+width: 90%;
+}
+
+.intruction_img{
+display: inline;
+width: 45%;
+}
+
+.close:hover{
+color: red;
+}
